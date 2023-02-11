@@ -1,0 +1,64 @@
+{
+  "users": [
+    { 
+      "id": 1, 
+      "name": "Fabio", 
+      "surname": "Rossi", 
+      "email": "fabiorossi@outlook.com"
+    },
+    { 
+      "id": 2, 
+      "name": "Cecilia", 
+      "surname": "Viviano", 
+      "email": "ceciliaviviano@gmail.com"
+    },
+    { 
+      "id": 3, 
+      "name": "Nunzio", 
+      "surname": "Ettore", 
+      "email": "nunzio_ettore@outlook.com"
+    },
+    { 
+      "id": 4, 
+      "name": "Diego", 
+      "surname": "Angela", 
+      "email": "angeladiego@hotmail.it"
+    },
+    { 
+      "id": 5, 
+      "name": "Luisa", 
+      "surname": "Manfredi", 
+      "email": "manfredi_luisa@gmail.com"
+    },
+    { 
+      "id": 6, 
+      "name": "Amedeo", 
+      "surname": "Anselmo", 
+      "email": "amedeo.anselmo@legalmail.it"
+    },
+    { 
+      "id": 7, 
+      "name": "Matteo", 
+      "surname": "Rosalinda", 
+      "email": "rosalindamatteo21@gmail.com"
+    },
+    { 
+      "id": 8, 
+      "name": "Fabio", 
+      "surname": "Rossi", 
+      "email": "fabiorossi@outlook.com"
+    },
+    { 
+      "id": 9, 
+      "name": "Michele", 
+      "surname": "Bonaventura", 
+      "email": "bonaventura_michele4326@outlook.com"
+    },
+    { 
+      "id": 10, 
+      "name": "Massimo", 
+      "surname": "Ofelia", 
+      "email": "massimo.ofelia@gmail.com"
+    }
+  ]
+}
